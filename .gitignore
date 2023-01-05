@@ -56,3 +56,6 @@ dkms.conf
 
 # Binary files
 a.out
+
+#gitingore
+.gitignore
